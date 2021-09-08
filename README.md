@@ -4,7 +4,7 @@
 ## 兵来将挡
 |  LeetCode  |      Title       | Difficulty  | Tag                  
 |-----|----------------|-------------|-------------
-|502|[IPO](https://github.com/mixpi/JourneyOfAlgorithm/blob/main/LeetCode/502.md)|困难|无
+|502|[IPO](https://github.com/mixpi/JourneyOfAlgorithm/blob/main/LeetCode/502.md)|困难|堆、贪心算法
 ## 无中生有
 ## 静心观海
 ## 登高望远
