@@ -4,5 +4,5 @@
 ## 算法部分
 |  #  |      Title       | Difficulty  | Tag                  
 |-----|----------------|-------------|-------------
-|502|IPO|困难|无
+|502|IPO(https://github.com/mixpi/JourneyOfAlgorithm/blob/main/LeetCode/502.md)|困难|无
 ## 平地起高楼
