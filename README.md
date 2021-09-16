@@ -8,6 +8,7 @@
 |447|[回旋镖的数量](https://github.com/mixpi/JourneyOfAlgorithm/blob/main/LeetCode/447.md)|中等|枚举、哈希表、排列组合
 |524|[通过删除字母匹配到字典里最长单词](https://github.com/mixpi/JourneyOfAlgorithm/blob/main/LeetCode/524.md/)|中等|优化、爆破
 |162|[寻找峰值](https://github.com/mixpi/JourneyOfAlgorithm/blob/main/LeetCode/162.md/)|中等|二分查找
+|208|[实现Trie(前缀树)](https://github.com/mixpi/JourneyOfAlgorithm/blob/main/LeetCode/208.md/)|中等|
 |212|[单词搜索II](https://github.com/mixpi/JourneyOfAlgorithm/blob/main/LeetCode/212.md/)|困难|回溯、字典树
 ## 无中生有
 ## 静心观海
